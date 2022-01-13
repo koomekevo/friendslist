@@ -1,24 +1,37 @@
-# README
+# FriendsList
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby-based friendly app that enables one create, update or delete list of friends.
 
-Things you may want to cover:
+## BuiltWith
 
-* Ruby version
+- Ruby on Rails.
+- Bootstrap.
+- SQLite. 
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Run `git clone https://github.com/koomekevo/friendslist.git`
 
-* Database creation
+Then run `cd friendslist` and run `rails s`
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Kevin Koome**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@koomekevo](https://github.com/koomekevo)
+- Twitter: [@koomekevo](https://twitter.com/koomekevo)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/kevin-koome-aab84186)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
