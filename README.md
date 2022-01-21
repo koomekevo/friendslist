@@ -2,6 +2,10 @@
 
 A Ruby-based friendly app that enables one create, update or delete list of friends.
 
+## LiveDemo
+
+https://koomekevo-friendlist.herokuapp.com/
+
 ## BuiltWith
 
 - Ruby on Rails.
